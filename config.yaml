@@ -1,0 +1,5 @@
+resize_shape: [224, 224]
+targets: ['Cat', 'Dog']
+model_path: "keras_model.h5"
+model_url: "https://drive.google.com/file/d/19mHy88GY8eNDYYIxwEWgt_wzboKSBRnn/view?usp=sharing"
+model_sha256: "63b101774988c99718e431dba4a4eadb7037e3817f0fe0c8e05ef0797fe37056"
