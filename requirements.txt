@@ -1,11 +1,10 @@
 opencv-python
 numpy
-tensorflow
+tensorflow-cpu
 imgaug
 pandas
 fastapi
 PyYAML
-scikit-learn
 uvicorn
 python-multipart
 
