@@ -7,7 +7,7 @@ fastapi
 PyYAML
 scikit-learn
 uvicorn
-python-multipart4
+python-multipart
 
 
 
