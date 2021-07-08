@@ -1,4 +1,4 @@
-runtime: custom
+'''runtime: custom
 env: flex
 service: default
 threadsafe: yes
@@ -17,4 +17,4 @@ automatic_scaling:
 resources:
   cpu: 1
   memory_gb: 4
-  disk_size_gb: 20
+  disk_size_gb: 20'''
